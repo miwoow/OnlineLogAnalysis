@@ -1,0 +1,12 @@
+#!/bin/python
+#coding:utf-8
+
+class TaskQueue():
+
+    def __init__(self,):
+        print 'task queue'
+
+
+if __name__ == '__main__':
+    tq = TaskQueue()
+    

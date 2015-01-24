@@ -1,0 +1,17 @@
+#!/bin/python
+#coding:utf-8
+
+class Task():
+    '''
+    任务类
+    '''
+    def __init(self,):
+        pass
+
+    def run():
+        print 'task has run'
+
+
+def __name__ == '__main__':
+    t = Task()
+    t.run()
